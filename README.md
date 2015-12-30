@@ -26,7 +26,7 @@ $ git add fitxer
 
 ó 
 
-$ git add . (Per tots els fitxers.)
+$ git add . 	##(Per tots els fitxers.)
 
 $ git commit -m "Comentari del commit (obligatori)"
 
