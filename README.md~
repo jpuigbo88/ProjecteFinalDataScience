@@ -13,7 +13,7 @@ Aixi us decarragueu tot el master.
 
 Ara conectem el repositori local al repositori del projecte de github
 
-git remote add origin https://github.com/jpuigbo88/ProjecteFinalDataScience.git
+$ git remote add origin https://github.com/jpuigbo88/ProjecteFinalDataScience.git
 
 Ara qualsevol fitxer que modifiqueu, esborreu o afeixiu git ho controla. Utilitzeu la següent comanda per veure els canvis.
 
@@ -23,3 +23,5 @@ Ara per pujar els canvis del vostre repositori local al de Github utilizeu:
 
 $ git commit -m "Comentari del commit (obligatori)"
 $ git push
+
+Nota: Es necessari tenir git instalat
